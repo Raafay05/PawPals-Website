@@ -1,7 +1,7 @@
 # PawPals - Pet Social Media Website
 
 # How to Run
-1. Download XAMPP Control Panel if you don't already have it installed.
+1. Download [XAMPP Control Panel](https://www.apachefriends.org/download.html) if you don't already have it installed.
 2. Download the source code from this repository as a zipped file.
 3. Open the zipped file and copy the folder that is inside of it.
 4. Open File Explorer and follow the following path `C: > xampp > htdocs`.
